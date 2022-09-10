@@ -1,0 +1,15 @@
+"""
+
+div
+    h3 
+
+div
+    strong
+    strong
+    strong
+    strong
+    strong
+
+div {cur_course_description}
+
+"""
